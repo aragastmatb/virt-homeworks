@@ -26,26 +26,26 @@
 
 6.3. [MySQL](https://github.com/netology-code/virt-homeworks/tree/master/06-db-03-mysql)
 
-6.4. [] PostgreSQL
+6.4. [PostgreSQL](https://github.com/netology-code/virt-homeworks/tree/master/06-db-04-postgresql)
 
-6.5. [] Elasticsearch
+6.5. [Elasticsearch](https://github.com/netology-code/virt-homeworks/tree/master/06-db-05-elasticsearch)
 
-6.6. [] Troubleshooting
+6.6. [Troubleshooting](https://github.com/netology-code/virt-homeworks/tree/master/06-db-06-troobleshooting)
 
 
 ## Модуль 7. Облачная инфраструктура. Terraform
 
-7.1. [] Конфигурация как код
+7.1. [Конфигурация как код](07-terraform-01-intro) 
 
-7.2. [] Облачные провайдеры и провайдеры Terraform
+7.2. [Облачные провайдеры и синтаксис Терраформ](07-terraform-02-syntax)
 
-7.3. [] Синтаксис и принцип работы Terraform
+7.3. [Основы и принцип работы Терраформ](07-terraform-03-basic)
 
-7.4. [] Средства командной работы над инфраструктурой
+7.4. [Средства командной работы над инфраструктурой](07-terraform-04-teamwork)
 
-7.5. [] Введение в Golang
+7.5. [Введение в Golang](07-terraform-05-golang)
 
-7.6. [] Написание собственных провайдеров для Terraform
+7.6. [Написание собственных провайдеров для Terraform](07-terraform-06-providers)
 
 ## Дополнительные материалы
 
